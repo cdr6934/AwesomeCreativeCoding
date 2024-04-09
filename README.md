@@ -43,6 +43,8 @@ Also, if you find anything inaccurate please let me know either through an issue
 | Robot Bobby | Three.js | [Youtube](https://www.youtube.com/@robotbobby9) | `ThreeJS` |
 | Eli FieldSteel | Soundcollider | [Youtube](https://www.youtube.com/@elifieldsteel) | `Supercollider` | 
 | Simon Hutchinson |Pure Data | [Youtube](https://www.youtube.com/@SimonHutchinson/videos) | `Pure Sound` | 
+| Tim Rodenbröker |Processing courses | [Patreon](https://www.patreon.com/timrodenbroeker) | `Processing` | 
+| Daniel Shiffman |Processing tutorials | [Youtube](https://www.youtube.com/@TheCodingTrain) | `Processing` | 
 
 ## Technologies 
 * [Touch Designer](https://derivative.ca/) 
